@@ -30,7 +30,7 @@ url:
 baseurl: ""
 
 # global author information
-author: wr3nch
+author: Wr3nch
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 logo: /assets/images/light_bauhaus_logo.png
@@ -42,9 +42,9 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: r3ggie@tfwno.gf
+  email:
   facebook:
-  github: wrenchathome
+  github:
   instagram: 
   linkedin: 
   rss: # just type anything here for a working RSS icon
