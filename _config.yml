@@ -12,7 +12,7 @@ title: brutalist-blog
 # Avatar for light mode site
 lightavatar: /assets/images/light_bauhaus_logo.png
 # Avatar for dark mode site
-darkavatar: /assets/images/dark_bauhaus_logo.png
+darkavatar: /assets/images/die person gehört wirklich an den haaren gepackt und auf die straße gezedark_bauhaus_logo.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
 tagline: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
@@ -30,7 +30,7 @@ url:
 baseurl: ""
 
 # global author information
-author: andrew-park
+author: wr3nch
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 logo: /assets/images/light_bauhaus_logo.png
@@ -42,13 +42,13 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: mkie0125@gmail.com
+  email: r3ggie@tfwno.gf
   facebook:
-  github: andrewhwanpark/brutalist-blog
-  instagram: andrewhwanpark
-  linkedin: andrewhwanpark
+  github: wrenchathome
+  instagram: 
+  linkedin: 
   rss: # just type anything here for a working RSS icon
-  twitter: andrewhwanpark
+  twitter: 
 
 plugins:
   - jekyll-seo-tag
